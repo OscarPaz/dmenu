@@ -2,9 +2,9 @@
 VERSION = 5.0
 
 # paths
-LOCAL = ${HOME}/.local/share
-PREFIX = ${LOCAL}/dmenu
-MANPREFIX = ${LOCAL}/man
+LOCAL = ${HOME}/.local
+PREFIX = ${LOCAL}
+MANPREFIX = ${LOCAL}/share/man
 
 X11INC = /usr/X11R6/include
 X11LIB = /usr/X11R6/lib
